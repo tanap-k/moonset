@@ -1,0 +1,5 @@
+yfinance>=0.2.54
+pandas>=2.0
+openpyxl>=3.1
+streamlit>=1.50
+altair>=5.0
